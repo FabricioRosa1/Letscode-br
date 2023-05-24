@@ -1,5 +1,6 @@
 # Letscode-br
 
-## sbalvando alterações no git
+## salvando alterações no git
 
 * comando git push
+* comando pull
